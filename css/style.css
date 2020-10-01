@@ -1,0 +1,63 @@
+*{
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+}
+
+.container{
+	width: 90%;
+	margin: auto;
+}
+.logo img{
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 50%;
+}
+
+.logo h1{
+	margin-right: auto;
+	text-align: center;
+	font-size: 500%;
+	padding-bottom: 20px;
+}
+
+.moto{
+	margin-right: auto;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border-top: double;
+	border-bottom: double;
+	border-color: grey;
+}
+
+.moto p{
+	font-size: 1.5em;
+}
+
+.info{
+    
+    height: 200px;
+    padding: 30px;
+    text-align: justify;    
+}
+.info i{
+	color: grey;
+	font-size: 0.7em;
+}
+
+article{
+	display: inline-block;
+	width: 24%
+}
+
+footer h4{
+	margin: 50px;
+	text-align: center;
+	font-size: 1.1em;
+}
+h4 span{
+	font-size: 1em;
+	color: rgb(190,190,190);
+}
